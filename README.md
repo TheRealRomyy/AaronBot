@@ -11,7 +11,7 @@ The bot is make in [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaSc
 - Create and fill the file `config.js`
 - Run `npm install` or open the `start.bat` file
 
-  And it's done 😎
+And it's done 😎
 
 
 

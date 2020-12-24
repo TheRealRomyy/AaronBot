@@ -4,6 +4,5 @@ title AaronBot - Discord Bot
 echo Veuillez patienter...
 
 node main.js
-echo Demarrage du bot.
-
+echo Bot pret !
 PAUSE

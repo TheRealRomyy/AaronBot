@@ -1,0 +1,3 @@
+{
+    "HELLO_SERVER": "Bonjour {{user}}, le prefix sur ce serveur est `{{prefix}}` !"
+}

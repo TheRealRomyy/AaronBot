@@ -1,0 +1,5 @@
+{
+    "MISSING_PERMISSION": "Vous n'avez pas la permission: {{permission}} !",
+    "MISSING_PERMISSIONS": "Vous n'avez pas les permissions: {{permissions}} !",
+    "NOT_CORRECT": "Vous devez faire `{{usage}}` !"
+}

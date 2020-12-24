@@ -8,8 +8,8 @@ The bot is make in [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaSc
 
 ### 🔧 How can i install it on my server ?
 - Download the files
-- Run `npm install`
-- Fill the file `config.js`
+- Create and fill the file `config.js`
+- Run `npm install` or open the `start.bat` file
   And it's done 😎
 
 

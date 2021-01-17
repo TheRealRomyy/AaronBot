@@ -25,4 +25,4 @@ Good question, in fact we think it's a good way for junior developer to learn th
 
 
 
-Made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773)
+ Made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773) & [Rome](https://discord.com/users/524615583447384064)

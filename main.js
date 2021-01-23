@@ -8,6 +8,8 @@ const client = new AaronBot({
 
 client.init();
 
+const guildInvites = new Map();
+
 client.on('inviteCreate', async invite => guildInvites.set(invite.guild.id, await invite.guild.fetchInvites()));
 client.on('ready', () => {
     console.log(`${client.user.tag} Je suis co pd.`);
